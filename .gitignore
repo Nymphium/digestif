@@ -15,3 +15,5 @@ c/dpipe
 *~
 .merlin
 _opam
+
+/result*
